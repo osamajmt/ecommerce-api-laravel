@@ -33,7 +33,8 @@ It handles authentication, business logic, and database operations.
 4. Run `php artisan migrate`
 5. Run `php artisan serve`
 
+
 ## Related Repositories
-- Customer App: link later
-- Driver App: link later
-- Admin App: link later
+- Customer App:[link](https://github.com/osamajmt/ecommerce-customer-flutter)
+- Driver App: [link](https://github.com/osamajmt/ecommerce-delivery-flutter)
+- Admin App: [link](https://github.com/osamajmt/ecommerce-admin-flutter)
